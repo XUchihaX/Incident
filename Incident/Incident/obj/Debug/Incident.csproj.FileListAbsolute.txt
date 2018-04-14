@@ -1,0 +1,12 @@
+c:\users\xxuchihaxx\source\repos\Incident\Incident\bin\Debug\Incident.exe.config
+c:\users\xxuchihaxx\source\repos\Incident\Incident\bin\Debug\Incident.exe
+c:\users\xxuchihaxx\source\repos\Incident\Incident\bin\Debug\Incident.pdb
+c:\users\xxuchihaxx\source\repos\Incident\Incident\bin\Debug\MySql.Data.dll
+c:\users\xxuchihaxx\source\repos\Incident\Incident\bin\Debug\MySql.Data.xml
+c:\users\xxuchihaxx\source\repos\Incident\Incident\obj\Debug\Incident.csprojResolveAssemblyReference.cache
+c:\users\xxuchihaxx\source\repos\Incident\Incident\obj\Debug\Incident.Properties.Resources.resources
+c:\users\xxuchihaxx\source\repos\Incident\Incident\obj\Debug\Incident.csproj.GenerateResource.cache
+c:\users\xxuchihaxx\source\repos\Incident\Incident\obj\Debug\Incident.csproj.CoreCompileInputs.cache
+c:\users\xxuchihaxx\source\repos\Incident\Incident\obj\Debug\Incident.csproj.CopyComplete
+c:\users\xxuchihaxx\source\repos\Incident\Incident\obj\Debug\Incident.exe
+c:\users\xxuchihaxx\source\repos\Incident\Incident\obj\Debug\Incident.pdb
